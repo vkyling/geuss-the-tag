@@ -1,0 +1,22 @@
+ul li {
+	display: inline-block;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	
+}
+
+li img{
+	max-width: 220px;
+	vertical-align: middle;
+
+}
+
+button{
+	box-shadow: 2px 2px 3px rgba(0,0,0,3);
+	border-radius: 10px;
+	border: none;
+	color: yellow ;
+	padding: 16px;
+	font-size: 14px;
+	text-transform: uppercase;
+}
